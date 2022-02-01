@@ -51,7 +51,7 @@ text-align: center;
     position: fixed;
     right: 25px;
     bottom: 40px;
-    background-color: #25d366;
+    /* background-color: #25d366;*/
     color: #fff;
     border-radius: 50px;
     text-align: center;
@@ -61,12 +61,12 @@ text-align: center;
 }
 .icone-whatsapp{
     margin-top: 11px;
-    width: 45px;
-    height: 45px;
+    width: 60px;
+    height: 60px;
     position: fixed;
-    right: 30px;
-    bottom: 48px;
+    right: 25px;
+    bottom: 40px;
     box-shadow: 2px 2px 3xp;
-    z-index: 100;
+    /* z-index: 100;*/
     color: #fff
 }
